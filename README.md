@@ -43,7 +43,7 @@
 
 
 <h1 align="center">How to reach me</h1>
-<p>If you're interested in discussing potential opportunities or just want to say hello, you can reach me at <a mailto="harshgupta30022001@gmail.com">Drop Mail</a> . I'm always open to connecting and collaborating with fellow professionals.</p>
+<p>If you're interested in discussing potential opportunities or just want to say hello, you can reach me at <a mailto="guptah4r5h@gmail.com">Drop Mail</a> . I'm always open to connecting and collaborating with fellow professionals.</p>
 
 <h1 align="center">Thank you for stopping by!</h1>
 <p>Thank you for taking the time to visit my profile and learn a little bit about me. I hope you find something here that catches your interest!</p>
@@ -56,7 +56,7 @@
 
 - 💬 I am currently learning **Larvel**
 
-- 📫 How to reach me **harshgupta30022001@gmail.com**
+- 📫 How to reach me **guptah4r5h@gmail.com**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshgupta30&show_icons=true&locale=en&layout=compact" alt="Harshgupta30" /></p>
